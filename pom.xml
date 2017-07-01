@@ -22,4 +22,14 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+ <distributionManagement>
+  <snapshotRepository>
+ <id>SuniAPPSnap</id>
+<url>http://35.184.210.74:8081/nexus/content/repositories/SuniAPPSnap/</url> 
+</snapshotRepository>
+<repository>
+<id>SunilAPPRelRepo</id>
+<url>http://35.184.210.74:8081/nexus/content/repositories/SunilAPPRelRepo/</url>
+</repository>
+</distributionManagement>
 </project>
