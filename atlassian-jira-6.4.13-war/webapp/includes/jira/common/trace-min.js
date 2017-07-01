@@ -1,1 +1,0 @@
-var JIRA=window.JIRA||{};JIRA.trace=function(){};

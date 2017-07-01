@@ -1,1 +1,0 @@
-require(["jquery","jira/admin/licenseroles/roleseditor"],(function($,LicenseRoles){$(function(){new LicenseRoles({el:"#license-roles"})})}));
